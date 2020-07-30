@@ -57,7 +57,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -148,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596117533821</updated>
-      <workItem from="1596117539917" duration="877000" />
+      <workItem from="1596117539917" duration="933000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA测试使用git">
       <created>1596118323255</created>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596118323255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IDEA测试使用git">
+      <created>1596118433593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596118433593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,13 +175,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="IDEA测试使用git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1148" y="233" key="CommitChangelistDialog2" timestamp="1596118320638">
+    <state x="1024" y="255" key="#Project_Structure" timestamp="1596118451427">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="1148" y="233" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1596118320638" />
+    <state x="1024" y="255" key="#Project_Structure/0.0.2048.1152@0.0.2048.1152" timestamp="1596118451427" />
+    <state x="1148" y="233" key="CommitChangelistDialog2" timestamp="1596118487768">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1148" y="233" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1596118487768" />
     <state x="1312" y="377" key="FileChooserDialogImpl" timestamp="1596117654732">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1312" y="377" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1596117654732" />
+    <state width="769" height="255" key="GridCell.Tab.0.bottom" timestamp="1596118473695">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="769" height="255" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1596118473695" />
+    <state width="769" height="255" key="GridCell.Tab.0.center" timestamp="1596118473695">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="769" height="255" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1596118473695" />
+    <state width="769" height="255" key="GridCell.Tab.0.left" timestamp="1596118473695">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="769" height="255" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1596118473695" />
+    <state width="769" height="255" key="GridCell.Tab.0.right" timestamp="1596118473695">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="769" height="255" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1596118473695" />
   </component>
 </project>
