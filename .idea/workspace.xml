@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ba6131f-4961-438a-b819-e7d47857cf60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -58,7 +64,7 @@
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15039062" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -148,7 +154,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596117533821</updated>
-      <workItem from="1596117539917" duration="933000" />
+      <workItem from="1596117539917" duration="1875000" />
+      <workItem from="1596173139820" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA测试使用git">
       <created>1596118323255</created>
@@ -164,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596118433593</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="IDEA测试使用git">
+      <created>1596118503009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596118503009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,14 +189,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="IDEA测试使用git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1024" y="255" key="#Project_Structure" timestamp="1596118451427">
+    <state x="1024" y="255" key="#Project_Structure" timestamp="1596119014155">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="1024" y="255" key="#Project_Structure/0.0.2048.1152@0.0.2048.1152" timestamp="1596118451427" />
-    <state x="1148" y="233" key="CommitChangelistDialog2" timestamp="1596118487768">
+    <state x="1024" y="255" key="#Project_Structure/0.0.2048.1152@0.0.2048.1152" timestamp="1596119014155" />
+    <state x="770" y="60" key="CommitChangelistDialog2" timestamp="1596175187527">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="770" y="60" key="CommitChangelistDialog2/0.0.1536.864/1920.-116.2048.1152@0.0.1536.864" timestamp="1596175187527" />
+    <state x="1148" y="233" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1596118501405" />
+    <state x="1118" y="210" width="627" height="766" key="DiffContextDialog" timestamp="1596119122163">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="1148" y="233" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1596118487768" />
+    <state x="1118" y="210" width="627" height="766" key="DiffContextDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1596119122163" />
     <state x="1312" y="377" key="FileChooserDialogImpl" timestamp="1596117654732">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -203,5 +222,13 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="769" height="255" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1596118473695" />
+    <state x="1024" y="329" key="Vcs.Push.Dialog.v2" timestamp="1596118650520">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1024" y="329" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1596118650520" />
+    <state x="1228" y="511" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596119006678">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1228" y="511" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1152@0.0.2048.1152" timestamp="1596119006678" />
   </component>
 </project>
